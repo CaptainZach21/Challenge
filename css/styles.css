@@ -1,0 +1,26 @@
+body{ 
+background-image: url("../assets/image.jpeg"); }
+
+#dt1{
+	text-align: left;
+}
+
+#dt2{
+	text-align: center;
+
+}
+#dt3{
+	text-align: right;
+}
+
+
+
+h1{ text-align: center; }
+
+body{
+	font-size: 25px
+}
+
+body{
+	font-family: arial
+}
